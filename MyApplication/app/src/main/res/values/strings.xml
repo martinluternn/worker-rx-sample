@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chart Sample</string>
+    <string name="label_connection_problem">Internet connection problem, please check your connection!</string>
+    <string name="label_gps_problem">Your GPS Setting is off!</string>
+    <string name="label_permission_denied">Permission was denied!</string>
+    <string name="label_permanent_permission_denied">Permission was denied permanently, go to your device setting to enable!</string>
+    <string name="internal_server_error">internal server error</string>
+    <string name="title_graph">Bitcoin Price Index</string>
+    <string name="title_refresh">Refresh</string>
+    <string name="no_data">No Data!</string>
+</resources>
